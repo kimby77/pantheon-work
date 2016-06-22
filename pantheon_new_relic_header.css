@@ -1,0 +1,20 @@
+.pantheon-container {
+    padding: 10px 14px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    background-color: #333333;
+}
+
+div {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+#pantheon-logo {
+	font-size: 1.5em;
+  line-height: 1em;
+  color: #fcfcfc;
+}
